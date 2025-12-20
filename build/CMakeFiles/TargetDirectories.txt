@@ -1,0 +1,3 @@
+/Users/akaei/Desktop/C++ Projects/Kafka/build/CMakeFiles/main.dir
+/Users/akaei/Desktop/C++ Projects/Kafka/build/CMakeFiles/edit_cache.dir
+/Users/akaei/Desktop/C++ Projects/Kafka/build/CMakeFiles/rebuild_cache.dir
